@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 title: Wilonio's
-description: documenting some of life's documentables.
 email: hoang.axh.vx@gmail.com
 baseurl: "/home"
 github_username: anhhoangvu
 linkedin_username: Hoang-Anh Vu
+
+description: documenting some of life's documentables.
+
